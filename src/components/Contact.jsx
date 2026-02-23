@@ -26,7 +26,7 @@ function Contact() {
 
             <div className="info-item">
               <h4>✉ Email</h4>
-              <p>abinayaabiabi13@email.com</p>
+              <p>abinayaabiabi13@gmail.com</p>
             </div>
           </div>
 
