@@ -5,7 +5,7 @@ function About() {
 
         {/* Image Section */}
         <div className="about-image">
-          <img src={profile} alt="Profile" />
+          <img src="/profile.jpg" alt="Profile" />
         </div>
 
         {/* Content Section */}
