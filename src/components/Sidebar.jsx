@@ -1,5 +1,3 @@
-import profile from "../assets/profile.jpg";
-
 import {
   FaHome,
   FaUser,
@@ -26,7 +24,7 @@ function Sidebar() {
         <div className="social-icons">
 
           <a
-            href="http://github.com/abinayaabiabi13-cpu"
+            href="https://github.com/abinayaabiabi13-cpu"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -34,7 +32,7 @@ function Sidebar() {
           </a>
 
           <a
-            href="www.linkedin.com/in/abinaya-a-v-6b723a2a4"
+            href="https://www.linkedin.com/in/abinaya-a-v-6b723a2a4/"
             target="_blank"
             rel="noopener noreferrer"
           >
