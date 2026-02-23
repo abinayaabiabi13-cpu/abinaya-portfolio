@@ -1,5 +1,3 @@
-import profile from "../assets/profile.jpg";
-
 function About() {
   return (
     <section className="about-section" id="about">
@@ -7,7 +5,7 @@ function About() {
 
         {/* Image Section */}
         <div className="about-image">
-          <img src={profile} alt="profile" />
+          <img src={profile} alt="Profile" />
         </div>
 
         {/* Content Section */}
