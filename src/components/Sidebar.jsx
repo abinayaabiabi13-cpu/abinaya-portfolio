@@ -19,7 +19,7 @@ function Sidebar() {
 
       {/* Profile Section */}
       <div className="profile">
-        <img src={profile} alt="profile" />
+        <img src="/profile.jpg" alt="profile" />
         <h2>Abinaya A V</h2>
 
         {/* Social Icons */}
